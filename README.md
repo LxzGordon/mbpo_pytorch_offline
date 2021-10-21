@@ -8,13 +8,13 @@ The code depends on [D4RL](https://github.com/rail-berkeley/d4rl)'s environments
 Only support hopper, walker, halfcheetah and ant environments right now (if you wish to evaluate in other environments, modify the termination function in [predict_env.py](https://github.com/LxzGordon/offline-mbpo/blob/main/predict_env.py))
 # Usage
 Simply run
-```shell  
+```java 
   
 python main_mbpo.py --env_name=halfcheetah-medium-v0 --seed=1234
   
 ```
 Or modify the script [runalgo.sh](https://github.com/LxzGordon/offline-mbpo/blob/main/runalgo.sh), then
-```shell  
+```java  
   
 bash runalgo.sh
   
