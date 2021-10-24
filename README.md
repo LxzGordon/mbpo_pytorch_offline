@@ -20,5 +20,5 @@ bash runalgo.sh
   
 ```
 # Results
-![halfcheetah-medium-v0](results/halfcheetah-medium-v0.png)![hopper-medium-replay-v0](results/hopper-medium-replay-v0.png)
-
+<center class="half">
+    <img src="results/halfcheetah-medium-v0.png" width="45%"/><img src="results/hopper-medium-replay-v0.png" width="45%"/> </center>
