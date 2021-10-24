@@ -20,7 +20,5 @@ bash runalgo.sh
   
 ```
 #Results
-<center class="half">
-    <img src="results/halfcheetah-medium-v0.png" width="200"/><img src="results/hopper-medium-replay-v0.png" width="200"/><img src="图片链接" width="200"/> </center>
-
+![halfcheetah-medium-v0](results/halfcheetah-medium-v0.png)![hopper-medium-replay-v0](results/hopper-medium-replay-v0.png)
 
