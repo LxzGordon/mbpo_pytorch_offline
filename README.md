@@ -20,7 +20,7 @@ bash runalgo.sh
   
 ```
 #Results
-<img src = “results/halfcheetah-medium-v0.png”  width = “45%” align = left>
-<img src = “results/hopper-medium-replay-v0.png”  width = “45%” align = right>
+<center class="half">
+    <img src="results/halfcheetah-medium-v0.png" width="200"/><img src="results/hopper-medium-replay-v0.png" width="200"/><img src="图片链接" width="200"/> </center>
 
 
