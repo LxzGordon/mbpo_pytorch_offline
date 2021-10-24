@@ -19,6 +19,6 @@ Or modify the script [runalgo.sh](https://github.com/LxzGordon/offline-mbpo/blob
 bash runalgo.sh
   
 ```
-#Results
+# Results
 ![halfcheetah-medium-v0](results/halfcheetah-medium-v0.png)![hopper-medium-replay-v0](results/hopper-medium-replay-v0.png)
 
