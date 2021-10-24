@@ -20,5 +20,5 @@ bash runalgo.sh
   
 ```
 #Results
-<div align=left><img src="results/halfcheetah-medium-v0.png" width = "200" height = "300" alt="" align=center />
-<div align=right><img src="results/hopper-medium-replay-v0.png" width = "200" height = "300" alt="" align=center />
+<div align=left><img src="results/halfcheetah-medium-v0.png"  align=center />
+<div align=right><img src="results/hopper-medium-replay-v0.png" align=center />
